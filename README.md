@@ -53,3 +53,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" **alt="Android" width="80" height="80"/>&nbsp;
     </div>
 </div>
+<h4>GitHub Public Repository Stats</h4>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micro230&layout=donut-vertical)
