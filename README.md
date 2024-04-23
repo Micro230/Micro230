@@ -2,9 +2,11 @@
     <h1>About Me</h1>
 </div>
 
-<p>I am an aspiring musician and programmer. I spend much of my free time making music, editing videos and photos, 3D modeling, and programming games, modifications, & custom programs. I do such a wide variety of different things that are computer, music, film, and photography related so much of my work is still in progress. Most of my code is private.</p>
+<p>Good evening fellas, I am a music producer and game developer. I spend much of my free time making music, editing videos and photos, 3D modeling, and programming games, modifications, & custom programs. Much of my work is still in-progress, private, or contracted.
 
-<p>My website was built in HTML, CSS, and JavaScript from scratch using the BootStrap framework. Currently in the works of replacing the framework with my own. You can check it out here: <span><a href="https://micro230.com">micro230.com</a></span></p>
+My current biggest public project is Vulcan Artifact. Check it out on Itch.io, Steam, or DeltaGateStudios.com.
+
+Fluent primarily in C++, LUA, and JavaScript.</p>
 
 <div id="socials" align="center">
     <h4>Social Media</h4>
