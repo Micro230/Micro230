@@ -2,7 +2,7 @@
     <h1>About Me</h1>
 </div>
 
-<p>Good evening fellas, I am a music producer and game developer. I spend much of my free time making music, editing videos and photos, 3D modeling, and programming games, modifications, & custom programs. Much of my work is still in-progress, private, or contracted.
+<p>I am a music producer and game developer. I spend much of my free time making music, editing videos and photos, 3D modeling, and programming games, modifications, & custom programs. Much of my work is still in-progress, private, or contracted.
 
 My current biggest public project is Vulcan Artifact. Check it out on Itch.io, Steam, or DeltaGateStudios.com.
 
